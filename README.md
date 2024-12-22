@@ -8,7 +8,7 @@ Tài liệu này hướng dẫn bạn cách tạo một bản sao của notebook
 
 ### Bước 1: Truy cập vào notebook
 - Nhấp vào đường link dưới đây để mở notebook Google Colab của tôi:  
-[**Link đến notebook**](<>)
+[**Link đến notebook**](<https://colab.research.google.com/drive/1rSkWAbFMTaeqDeSwoYr_m6uhe4C0ik1d>)
 
 ### Bước 2: Tạo bản sao notebook
 - Sau khi mở notebook, chọn **Tệp (File)** > **Lưu bản sao vào Drive (Save a copy in Drive)**.  
